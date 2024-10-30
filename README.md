@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> MCA Student at NIT TIRUCHIRAPALLI<h3>
 
-- 🌱 I’m currently learning **Full Stack Development Course**
+- 🌱 I’m currently learning **Master of  Computer Aplications**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/dashboard](https://vercel.com/dashboard)
 
