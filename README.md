@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/dashboard](https://vercel.com/dashboard)
 
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **pradeepapex27@gmail.com**
 
