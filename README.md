@@ -10,11 +10,6 @@
 
 ---
 
-## 👨‍💻 Projects
-🔗 Check out my projects:  
-👉 https://vercel.com/dashboard
-
----
 
 ## 📫 Contact Me
 - 📧 Email: **pradeepapex27@gmail.com**
